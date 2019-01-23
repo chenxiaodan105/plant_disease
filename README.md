@@ -8,9 +8,9 @@ For this project, we just use both the baseline model and the Densenet model, wh
 
 There are 3 files in this folder:
 
---the plant_disease.ipython is developed by transfering learning of Densenet using Pytorch; 
+--the plant_disease.ipython is developed by the transfering learning of Densenet using Pytorch; 
 
---the baseline model file contains 4 python files using shallow neural network to achieve image classification
+--the baseline model file contains 4 python files using shallow neural network using tensorflow to achieve image classification
 
 --the project report is the record of the process.
 
